@@ -1,0 +1,6 @@
+# Rule-Based Chatbot Dependencies
+# Core NLP libraries
+spacy>=3.8.0
+
+# Optional: For terminal colors (safe fallback if not present)
+colorama>=0.4.6
